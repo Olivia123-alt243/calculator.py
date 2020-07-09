@@ -1,2 +1,2 @@
-# Calculator
+# Calculator.py
 Calculator using python
